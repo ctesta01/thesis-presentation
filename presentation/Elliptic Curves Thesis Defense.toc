@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{What is an elliptic curve?}{3}{0}{1}
+\beamer@sectionintoc {2}{History}{5}{0}{2}
+\beamer@sectionintoc {3}{Bezout's Theorem}{6}{0}{3}
+\beamer@sectionintoc {4}{Elliptic Curve Arithmetic}{10}{0}{4}
+\beamer@sectionintoc {5}{Mordell's Theorem}{12}{0}{5}
+\beamer@sectionintoc {6}{Hasse's Bound}{15}{0}{6}
+\beamer@sectionintoc {7}{Lenstra's Factorization Algorithm}{16}{0}{7}
+\beamer@sectionintoc {8}{Experiments}{17}{0}{8}
